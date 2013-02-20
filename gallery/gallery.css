@@ -1,0 +1,15 @@
+#gallery {
+overflow:hidden;
+}
+
+#gallery img {
+display:none;
+background-color:transparent;
+/* position:absolute;
+top:0px;
+left:0px;
+ */}
+
+#gallery img.active{
+display:block;
+}

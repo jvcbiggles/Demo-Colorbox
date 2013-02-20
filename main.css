@@ -1,0 +1,27 @@
+
+
+#container{
+padding-bottom:50px;
+}
+
+
+.stop {
+width:120px;
+height:30px;
+float:left;
+margin-left:0px;
+position:relative;
+top:9px;
+background-color:rgb(204,204,204);
+text-align:center;
+line-height:2em;
+cursor:pointer;
+}
+
+#gallery {
+width:450px;
+height:300px;
+background-color:transparent;
+position:relative;
+}
+
